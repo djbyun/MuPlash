@@ -9,7 +9,6 @@ An interactive music visualization iOS app that transforms the dynamics and rhyt
 * **Real-time Liquid Visualization**: Transforms the dynamics, rhythm, and frequency spectrum of your music into organic fluid shapes in real time.
 * **Interactive Water Ripples**: Realistic liquid ripple physics simulation powered by custom Apple Metal shaders. Touch, swipe, and interact directly on the canvas.
 * **Supported Audio Sources**: Play local audio files imported via the iOS Files app (MP3, M4A, WAV, etc.) or DRM-free tracks downloaded to your device from Apple Music. (Streaming-only tracks without local download are not supported).
-* **Built-in Demo Tracks**: Enjoy curated preset tracks directly within the app without needing external audio files.
 * **Lifetime Access & 7-Day Free Trial**: Simple, transparent in-app purchase powered by Apple StoreKit 2.
 
 ---
