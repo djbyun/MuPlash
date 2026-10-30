@@ -4,7 +4,7 @@ An interactive music visualization iOS app that transforms the dynamics and rhyt
 
 ---
 
-## 🎵 Key Features
+## Key Features
 
 * **Real-time Liquid Visualization**: Transforms the dynamics, rhythm, and frequency spectrum of your music into organic fluid shapes in real time.
 * **Interactive Water Ripples**: Realistic liquid ripple physics simulation powered by custom Apple Metal shaders. Touch, swipe, and interact directly on the canvas.
@@ -14,20 +14,20 @@ An interactive music visualization iOS app that transforms the dynamics and rhyt
 
 ---
 
-## 🛠 Customer Support & Feedback
+## Customer Support & Feedback
 
 If you have any questions, encounter issues, or would like to share feedback, please contact us:
 
 * **Support Email**: djbyun@gmail.com
-* **Response Time**: Usually within 24–48 hours.
+* **Response Time**: Usually within 24-48 hours.
 
 ---
 
-## 🔒 Privacy Policy
+## Privacy Policy
 * Please review our full [Privacy Policy](PRIVACY.md).
 
 ---
 
-## 📱 System Requirements
+## System Requirements
 * iOS 17.0 or later
 * Compatible with iPhone and iPad
